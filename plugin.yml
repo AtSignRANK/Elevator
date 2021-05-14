@@ -1,0 +1,5 @@
+name: Elevator
+version: 1.16.5
+api-version: 1.16
+main: io.github.elevator.Elevator
+author: RANK0816
