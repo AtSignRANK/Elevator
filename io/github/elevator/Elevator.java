@@ -94,4 +94,3 @@ public class Elevator extends JavaPlugin implements Listener {
         }
     }
 }
-// TODO 고쳐야할 것 : 위로 가는거, 아래로 가는거 안됨
